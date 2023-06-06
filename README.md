@@ -3,7 +3,7 @@ Excel-Clone using - JQuery ,HTML,CSS, javascript
 
 ## Demo :
  
- <img src="demo.gif"/>
+ <img src="https://github.com/PawanPatidar7/Excel-Clone/blob/main/demo.gif"/>
  
 # Functionalities:
 This project have  different formatting <br>
