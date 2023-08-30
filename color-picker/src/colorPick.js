@@ -1,12 +1,4 @@
-/*!
-*
-* ColorPick jQuery plugin
-* https://github.com/philzet/ColorPick.js
-*
-* Copyright (c) 2017-2019 Phil Zet (a.k.a. Phil Zakharchenko)
-* Licensed under the MIT License
-*
-*/
+
 (function( $ ) {
 
     $.fn.colorPick = function(config) {
